@@ -1,1 +1,4 @@
 .venv
+dist/
+src/CheapCameraProject_pkg_gavin.engler.egg-info/
+build/

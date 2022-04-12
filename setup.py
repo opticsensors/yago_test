@@ -4,16 +4,16 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="CheapCameraProject-pkg-eduard.almar.oliva",
+    name="CheapCameraProject-pkg-gavin.engler",
     version="0.0.1",
-    author="Eduard Almar",
-    author_email="eduard.almar.oliva@hp.com",
+    author="Gavin Engler",
+    author_email="englergavin@gmail.com",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.azc.ext.hp.com/Computer-Vision-BCN/CheapCameraProject/",
+    url="",
     project_urls={
-        "Bug Tracker": "https://github.azc.ext.hp.com/Computer-Vision-BCN/CheapCameraProject/tree/Camera/issues",
+        "Bug Tracker": "",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
