@@ -9,7 +9,7 @@ setuptools.setup(
     author="Eduard Almar",
     author_email="eduard.almar.oliva@hp.com",
     description="A small example package",
-    long_description=file: README.md
+    long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.azc.ext.hp.com/Computer-Vision-BCN/CheapCameraProject/",
     project_urls={
